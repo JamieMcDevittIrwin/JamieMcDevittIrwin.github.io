@@ -1,0 +1,27 @@
+---
+title: "About"
+image: "images/DSC_0369copy.jpg"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+
+I am currently a PhD student studying community ecology at Stanford University working with Dr. Fiorenza Micheli at the Hopkins Marine Station. *My main research interest is considering how communities are formed, maintained and  disassembled*. I'm especially interested how these dynamics vary over time and comparing across different ecosystems/contexts.
+<br>  
+
+
+PhD Biology Stanford University, Current  
+MSc Biology University of Victoria, 2017  
+BScH Biology Queen's University, 2013  
+<br>  
+
+
+Email: jmcirwin@stanford.edu  
+Twitter: @jamiemcirwin  
+[Google Scholar](https://scholar.google.com/citations?user=ShneqswAAAAJ&hl=en)
+
+
+
