@@ -20,7 +20,7 @@ I'm also interested in moving beyond the presence or absence of an herbivore, an
 ![](images/IMG_3537.jpeg){width=70%}  
 Experiment in Big Sur, California  
 </p> 
-
+<br>  
 
 ### Spatial and temporal diversity patterns     
 I've previously worked on understanding how and why species composition patterns change across space and time, for both micro and macro organisms. By tracking the microbiome of coral colonies at Kiritimati Island, we asked the question: how do local disturbance and a heat stress event impact coral microbiome diversity? (McDevitt-Irwin et al. 2019). In addition, using field observations of benthic cover from the Bahamian Archipelago, we asked the question: is there congruence in the diversity patterns of coral reef benthic taxa? (McDevitt-Irwin et al. 2021)    
