@@ -2,27 +2,27 @@
 title: "Research"
 ---
 
-Ecosystems around the world are experiencing escalating threats including both the loss of consumers and changing disturbance patterns. These changes often act jointly to affect ecosystems: after disturbances, ecosystems undergo succession and consumers can play an integral role in structuring these developing communities.  
-<br>  
+My current research projects evaluate how consumers affect communities as they assemble and recover from disturbances. Previously, I conducted a variety of research ranging from conservation policies of marine fishes in Canada (McDevitt-Irwin et al. 2015), nursery role of seagrass ecosystems (McDevitt-Irwin et al. 2016), coral reef beta diversity patterns (McDevitt-Irwin et al. 2021) to coral microbiome community ecology (McDevitt-Irwin et al. 2017, McDevitt-Irwin et al. 2019).
 
-**For my PhD research, I'm interested in how consumers affect communities as they assemble and recover from disturbances**. I'm asking the questions:  
+### Top down control of coral reef succession  
+I'm currently assessing how large fishes affect coral reef benthic succession and coral recruitment through field experiments in both the Chagos Archipelago and Palmyra Atoll. I'm asking the questions 1) how does this top down control by large fishes vary across space? 2) how do large fishes influence community variability across space and turnover through time? and 3) how do large fishes influence coral recruitment through grazing and grazing scars?
 
-*How do large fishes influence coral reef benthic succession and coral recruitment?*
-![](images/Tiles&WhiteTip_Chagos_2019_KT_IMG_7868_2.jpg){width=100%}  
+<p align="center">
+![](images/Tiles&WhiteTip_Chagos_2019_KT_IMG_7868_2.jpg){width=70%}  
 Experiment in the Chagos Archipelago, Photo Credit: Kristina Tietjen  
+</p>  
 <br>  
 
-*How do large fishes influence community variability across space and turnover through time during coral reef succession? How do large fishes influence coral recruitment through grazing and grazing scars?* 
-![](images/P7290176.jpeg){width=100%}  
-Experiment in Palmyra Atoll, Photo Credit: Joe Wible  
-<br>  
 
-*How does herbivore arrival timing influence rocky intertidal succession?*
-![](images/IMG_3537.jpeg){width=100%}  
+### Herbivore arrival timing
+I'm also interested in moving beyond the presence or absence of an herbivore, and considering herbivores as transient members of the community with variable arrival timing due to factors like mobility and patch isolation. Using a field experiment in the rocky intertidal in Big Sur, California, I'm asking the question: How does herbivore arrival timing influence rocky intertidal algal succession?  
+
+<p align="center">  
+![](images/IMG_3537.jpeg){width=70%}  
 Experiment in Big Sur, California  
+</p> 
 
-<br>  
 
-Previously, I conducted a variety of research ranging from conservation policies of marine fishes in Canada (McDevitt-Irwin et al. 2015), nursery role of seagrass ecosystems (McDevitt-Irwin et al. 2016), to coral microbiome community ecology (McDevitt-Irwin et al. 2017, McDevitt-Irwin et al. 2019).
+
 
 
