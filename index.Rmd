@@ -14,7 +14,7 @@ output:
 ---
 
 
-I am a PhD student studying community ecology at Stanford University working with [Dr. Fiorenza Micheli](https://michelilab.stanford.edu/) at the [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/). **Overall I'm interested in how ecological communities are formed, maintained and disassembled in an ever-changing world.** I'm especially interested in how trophic interactions (e.g., predation, herbivory) structure these communities. I primarily work in marine coastal ecosystems - coral reefs, rocky intertidal - using field experiments, but am interested in evaluating these dynamics through a system agnostic lens, integrating multiple approaches (e.g., observations, experiments, theory).  
+I am a PhD student studying community ecology at Stanford University working with [Dr. Fiorenza Micheli](https://michelilab.stanford.edu/) at the [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/). **Overall, I'm interested in how ecological communities are formed, maintained and disassembled in a constantly changing world.** I'm especially interested in how trophic interactions (e.g., predation, herbivory) structure these communities. I primarily work in marine coastal ecosystems - coral reefs, rocky intertidal - using field experiments, but am interested in evaluating these dynamics through a system agnostic lens while integrating multiple approaches (e.g., observations, experiments, theory).  
 
 <br>   
 
