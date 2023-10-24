@@ -5,7 +5,7 @@ title: "Research"
 My research interests fit within three broad themes that often overlap and interact:  
 
 ### I) Trophic interactions structuring communities and ecosystems             
-I’m interested in how consumers (e.g., predators, herbivores) influence how communities look and function. I typically address this objective by using a combination of field experiments, observational surveys, and data-syntheses. I have evaluated how large fishes influence coral recruitment (McDevitt-Irwin et al. In Review), benthic community variability and turnover (McDevitt-Irwin et al. 2023), and if there are cascading trophic interactions down from sharks to coral reef recovery (McDevitt-Irwin et al. In Review). In addition, I am currently evaluating how the arrival timing of consumers influences recovery trajectories in the rocky intertidal.
+I’m interested in how consumers (e.g., predators, herbivores) influence how communities look and function. I have done extensive research on how large fishes influence coral reef recovery after disturbances, primarily through field experiments in remote locations. We have demonstrated that the positive and negative effects of fishes vary through time (McDevitt-Irwin et al. In Review) and excluding large fishes lead to more variable and unpredictable benthic communities across space and time (McDevitt-Irwin et al. 2023). Furthermore, we have shown that large MPAs not only promote herbivorous fish populations that control algae during reef recovery but also strengthen reef resilience to cascading trophic interactions (McDevitt-Irwin et al. Submitted). Finally, we have shown that the arrival timing of herbivores affects the short-term but not long-term recovery dynamics of algae communities in the rocky intertidal (McDevitt-Irwin et al. In Prep).   
 
 
 <p align="center">
@@ -17,7 +17,7 @@ Experiment in the Chagos Archipelago, Photo Credit: Kristina Tietjen
 
 
 ### II) Causes and consequences of biodiversity change   
-In addition, I’m interested in drivers of biodiversity patterns, how these patterns vary through space and time, and the ecosystem wide consequences of biodiversity change. My current work will address these questions using innovative technologies such as eDNA, bioacoustics, and computer vision. Previously, I've tackled these questions using traditional observational surveys and 16S Illumina sequencing. I’ve evaluated how local human disturbances and El Niño events influence coral microbiome diversity (McDevitt-Irwin et al. 2018, McDevitt-Irwin et al. 2019, Claar et al. 2020) and how coral reef benthic taxa have congruence in their diversity patterns (McDevitt-Irwin et al. 2021). 
+In addition, I’m interested in drivers of biodiversity patterns, how these patterns vary through space and time, and the ecosystem wide consequences of biodiversity change across multiple levels of biological organization. My current post-doctoral work evaluates how coral reef biodiversity - from fishes, corals, algae, invertebrates to the coral microbiome - are driven by anthropogenic stressors such as the loss of herbivorous fishes, nutrient pollution, and marine heat waves. Previously, I've shown that local human disturbances and El Niño events can increase diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2018, McDevitt-Irwin et al. 2019, Claar et al. 2020) and that reef benthic taxa have congruence in their landscape biodiversity patterns (McDevitt-Irwin et al. 2021). 
 
 <p align="center">
 ![](images/img_5412.jpg){width=50%}  
@@ -30,7 +30,9 @@ JMI collecting a coral tissue sample, Photo Credit: Kristina Tietjen
 
 
 ### III) Ecosystem resilience to global change         
-My research also evaluates how ecosystems are affected by escalating global stressors such as rising temperatures and increased heat waves. In particular, I'm interested in what makes an ecosystem resilient to these stressors. Using observational surveys and data-syntheses, I've evaluated how El Niño events influence coral reef bleaching patterns (Claar et al. 2018), how local anthropogenic stress interacts with heat stress events to affect coral reef resilience (Baum et al. 2023), and how abiotic drivers influence coral reef recovery from bleaching events (Lange et al. 2021).
+My research also evaluates how ecosystems are affected by escalating global stressors such as rising temperatures and increased heat waves. In particular, I'm interested in what makes an ecosystem resilient to these stressors. We have previously demonstrated that how local stressors mediate coral reef resilience to heat stress events is scale dependent- with sites with low local human disturbance (and consequently high coral cover) had the greatest coral loss from a heat wave, however, individual corals had greater survival at these sites with low human disturbance (Baum et al. 2023). Furthermore, we demonstrated that the 2015/2016 El Niño event caused unprecedented heat stress across the world’s coral reefs using a meta-analysis (Claar et al. 2018). Finally, I’m collaborating on a project where we identified climate refugia for marine megafauna functional diversity in the Northeast Pacific (Gissi et al. Submitted). 
+
+
 
 
 
