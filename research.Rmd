@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Anthropogenic stressors are dramatically altering our world and causing intense biodiversity loss known as the sixth mass extinction event. During this time of global change, its critical to understand how anthropogenic stressors are altering ecological communities.
+Anthropogenic stressors are dramatically altering our world and causing intense biodiversity loss known as the sixth mass extinction event. During this time of global change, its critical to understand how anthropogenic stressors are altering aquatic ecosystems.
 
 ### I) Trophic interactions structuring communities and ecosystems             
 As these consumers are critical drivers of community structure and ecosystem function, its crucial to evaluate the cascading effects of when consumers are lost from ecosystems due to anthropogenic pressures. I have done extensive research on how the loss of large fishes influences coral reef recovery after disturbances, primarily through field experiments in remote locations. We have demonstrated that the positive and negative effects of fishes vary through time (McDevitt-Irwin et al. 2023) and excluding large fishes lead to more variable and unpredictable benthic communities across space and time (McDevitt-Irwin et al. 2023). Furthermore, we have shown that large MPAs not only promote herbivorous fish populations that control algae during reef recovery but also strengthen reef resilience to cascading trophic interactions (McDevitt-Irwin et al. Submitted). Finally, we have shown that the arrival timing of herbivores affects the short-term but not long-term recovery dynamics of algae communities in the rocky intertidal (McDevitt-Irwin et al. In Prep).   
@@ -17,17 +17,21 @@ Experiment in the Chagos Archipelago, Photo Credit: Kristina Tietjen
 
 
 ### II) Causes and consequences of biodiversity change   
-As our world is facing intense biodiversity loss, I’m interested in the drivers of biodiversity patterns across space and time and the ecosystem wide consequences of biodiversity change across multiple levels of biological organization. My current post-doctoral work evaluates how coral reef biodiversity - from fishes, corals, algae, invertebrates to the coral microbiome - is driven by anthropogenic stressors such as the loss of herbivorous fishes, nutrient pollution, and marine heat waves. Previously, I've shown that local human disturbances and El Niño events can increase diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2018, McDevitt-Irwin et al. 2019, Claar et al. 2020) and that reef benthic taxa have congruence in their landscape biodiversity patterns (McDevitt-Irwin et al. 2021). 
+
+As our world is facing intense biodiversity loss, I’m interested in the drivers of biodiversity patterns across space and time and the ecosystem wide consequences of biodiversity change across multiple levels of biological organization. Most work evaluates biodiversity change within one taxonomic group (e.g., corals, fishes), so my work expands on this and demonstrated that beta diversity but not alpha diversity patterns, are non-independent among taxonomic groups, demonstrating that changes in the composition of one taxonomic group can have cascading effects on overall composition (McDevitt-Irwin et al. 2021). My current post-doctoral work evaluates how coral reef biodiversity - from fishes, corals, algae, invertebrates to microscopic organisms - is driven by anthropogenic stressors such as the loss of herbivorous fishes, nutrient pollution, and marine heat waves using both experimental and observational methods using new technologies (i.e, eDNA, bioacoustics, visualAI).  
+
+<p align="center">
+![](images/dsc3743.jpg){width=70%}   
+Benthic surveys in the Chagos Archipelago, Photo Credit: Guy Stevens  
+</p>  
+<br>  
+
+
+### III) Ecosystem resilience to climate change  
+My research also evaluates how ecosystems are affected by escalating global stressors such as rising temperatures and more frequent and intense heat waves, what makes an ecosystem resilient to these stressors, and how these global stressors interact with local stressors. In a recent paper published in Science Advances, we found that sites with highest coral cover, had the greatest coral cover loss from a heatwave that lasted approximately one year. However, individual coral colonies had greater survival at sites with low human disturbance (Baum et al. 2023). Furthermore, we demonstrated how coral bleaching is primarily shaped by long-term mean temperature during El Niño events and the 2015/2016 El Niño event caused unprecedented heat stress across the world’s coral reefs (Claar et al. 2018, Plos One). Previously, I've shown that local human disturbances and El Niño events can increase diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2018, McDevitt-Irwin et al. 2019, Claar et al. 2020) 
 
 <p align="center">
 ![](images/img_5412.jpg){width=50%}  
 JMI collecting a coral tissue sample, Photo Credit: Kristina Tietjen   
 </p>  
-
-
-
-
-
-
-
 
