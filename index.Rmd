@@ -14,7 +14,7 @@ output:
 ---
 
 
-I am currently a postdoctoral fellow at the [Marine Science Institute](https://msi.ucsb.edu/) at UC Santa Barbara working with [Dr. Deron Burkepile](https://labs.eemb.ucsb.edu/burkepile/deron/). **My research evaluates how biodiversity and community structure  are altered under anthropogenic stressors**. I combine theory driven experiments, observational fieldwork, and quantitative syntheses primarily working in marine coastal ecosystems but am interested in comparing patterns across ecosystems and taxa to search for general theory. I recently finished my PhD at Stanford University working with [Dr. Fiorenza Micheli](https://michelilab.stanford.edu/) at the [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/).
+I am currently a postdoctoral fellow at the [Marine Science Institute](https://msi.ucsb.edu/) at UC Santa Barbara working with [Dr. Deron Burkepile](https://labs.eemb.ucsb.edu/burkepile/deron/). **My research evaluates the patterns and dynamics of ecological communities in the Anthropocene**. I combine theory driven experiments, observational fieldwork, and quantitative syntheses primarily working in marine coastal ecosystems but am interested in comparing patterns across ecosystems and taxa to search for general theory. I recently finished my PhD at Stanford University working with [Dr. Fiorenza Micheli](https://michelilab.stanford.edu/) at the [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/).
 
 PhD Biology, Stanford University, 2023  
 MSc Biology, University of Victoria, 2017  
