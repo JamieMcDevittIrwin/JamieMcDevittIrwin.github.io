@@ -8,13 +8,16 @@ Please [contact me](mailto:jmcirwin@stanford.edu) if you have any trouble access
 
 **Submitted/In Review**  
 
-* **McDevitt-Irwin JM**, Chapuis M, Carlson R, Meekan M, Palmisciano M, Taylor BM, Tietjen KL, Tillman CM, Roche R, and F Micheli. Coral reef recovery in a remote and large marine protected area is resilient to cascading trophic interactions.  
+* **McDevitt-Irwin JM**, Chapuis M^, Carlson R, Meekan M, Palmisciano M, Taylor BM, Tietjen KL, Tillman CM, Roche R, and F Micheli. Coral reef recovery in a remote and large marine protected area is resilient to cascading trophic interactions. (^undergraduate mentee)  
 
 * Gissi E, **McDevitt-Irwin JM**, Kaschner K, Kesner-Reyes K, Hazen EL, Santoleri R, and F Micheli. Identifying climate refugia through analysis of functional diversity.  
 
-* Gissi E, Goodman MC, Elahi R, **McDevitt-Irwin JM**, Arnoldi NS, Arafeh-Dalmau N, Knight CJ, Olguín-Jacobson C, Palmisciano M, Tillman CM, De Leo G, and F Micheli.Sex-based species interactions matter in ecological communities.  
+* Chapuis M^, **McDevitt-Irwin JM**, Palmisciano M, Elahi R, Detrait A, Gorum O, Vogel C, Chui E, Haupt A, and F Micheli. Recent changes in mussel beds following mass mortality of a keystone marine predator. (^undergraduate mentee)  
+<br>  
 
-* Chapuis M, **McDevitt-Irwin JM**, Palmisciano M, Elahi R, Detrait A, Gorum O, Vogel C, Chui E, Haupt A, and F Micheli. Recent changes in mussel beds following mass mortality of a keystone marine predator. 
+**2024**  
+
+* Gissi E, Goodman MC, Elahi R, **McDevitt-Irwin JM**, Arnoldi NS, Arafeh-Dalmau N, Knight CJ, Olguín-Jacobson C, Palmisciano M, Tillman CM, De Leo G, and F Micheli. (Accepted) Sex-based species interactions matter in ecological communities. Trends in Ecology and Evolution  
 <br>  
 
 **2023**  
@@ -54,7 +57,7 @@ Please [contact me](mailto:jmcirwin@stanford.edu) if you have any trouble access
 
 **2018 and Earlier**  
 
-* Claar DC, Szostek L, **McDevitt-Irwin JM**, Schanze J and JK Baum. (2018) Global patterns and impacts of El Niño events on coral reefs: a meta-analysis. [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190957) 13(2): e0190957  
+* Claar DC, Szostek L^, **McDevitt-Irwin JM**, Schanze J and JK Baum. (2018) Global patterns and impacts of El Niño events on coral reefs: a meta-analysis. [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190957) 13(2): e0190957 (^undergraduate mentee)     
 
 * Thompson LR et al. and The Earth Microbiome Project Consortium. (2017) A communal catalog reveals Earth’s multiscale microbial diversity. [Nature](https://www.nature.com/articles/nature24621) 551: 457–463  
 
