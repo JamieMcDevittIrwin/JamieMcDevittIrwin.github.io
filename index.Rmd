@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/jamiemcirwin"   
   - label: Email
-    url: "mailto:jamie.mcirwin@gmail.com"   
+    url: "mailto:jmcirwin@ucsb.edu"   
 site: distill::distill_website
 output:
   postcards::trestles
