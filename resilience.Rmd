@@ -1,0 +1,19 @@
+---
+title: "Ecosystem resilience to climate change"
+---
+
+As ecosystems worldwide are facing extraordinary climate change, it’s incredibly important to
+understand what makes an ecosystem resilient to these environmental stressors.
+
+Coral reefs are an especially at-risk ecosystem under climate change, with widespread bleaching events that can cause shifts from coral to algae dominated reefs. However, beyond reducing carbon emissions, it remains unclear how to protect coral reefs from heat stress. At Kiritimati, Kiribati, we demonstrated that sites with low local disturbance, which originally had the highest coral cover, had the greatest coral cover loss. However, individual coral colonies had greater survival at low human disturbance, demonstrating local stressors can impair coral survival under heat stress (Baum et al. 2023, Sci Adv).
+
+Climate change alterations do not only occur at the level of organisms visible to the naked eye; human activities also cause dramatic changes in the unseen worlds of microbes. I showed that local and global stressors typically increase diversity in the coral microbiome, but few studies have considered multiple stressors in a field setting (McDevitt-Irwin et al. 2017, FMARS). I then addressed this knowledge gap by monitoring individual coral colonies across a gradient of human disturbance before and during an El Niño event at Kiritimati. We found that both stressors can interact to increase coral microbiome diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2019, Coral Reefs).
+
+I am currently collaborating on a project evaluating spatio-temporal patterns of coral mortality and bleaching across gradients of nutrient pollution in Moorea, French Polynesia.  
+    
+<p align="center">
+![](images/img_5412.jpg){width=50%}   
+JMI sampling a coral colony, Photo Credit: Kristina Tietjen  
+</p>  
+<br>  
+

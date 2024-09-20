@@ -1,0 +1,20 @@
+---
+title: "Causes and consequences of biodiversity change "
+---
+
+As we are currently facing the sixth mass extinction event, its imperative to understand the drivers of
+biodiversity over space and time and the ecosystem-wide consequences of biodiversity change across
+multiple levels of biological organization. 
+
+Most research on biodiversity change monitors one taxonomic group, so my recent work has expanded on this, studying changes in biodiversity across multiple taxonomic groups. Using regional scale data of coral reef benthic communities in the Bahamas, we found that beta diversity patterns, but not alpha diversity, are non-independent among taxonomic groups, demonstrating that changes in the composition of one taxonomic group can have cascading effects on overall composition (McDevitt-Irwin et al. 2021, Oecologia). 
+
+My current work evaluates how anthropogenic stressors impact coral reef biodiversity across multiple taxonomic groups (i.e., fishes, corals, algae, microbes) in Moorea, French Polynesia. I am evaluating how fishing pressure and nutrient pollution influence coral reef diversity using a four-year long field experiment. To complement this experimental work, I am integrating observational data using new technologies (i.e, eDNA, bioacoustics, computer vision) to determine how landscape scale biodiversity is driven by fishing pressure, nutrient pollution, and heat waves. 
+
+In addition, I am currently part of a working group evaluating how macroalgae diversity and stability are related over space and time in Moorea, French Polynesia.  
+
+
+<p align="center">
+![](images/IMG_1793.jpg){width=70%}  
+Fieldwork in Moorea, French Polynesia  
+</p>  
+<br>  
