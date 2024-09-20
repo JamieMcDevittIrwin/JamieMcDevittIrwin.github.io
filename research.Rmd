@@ -2,11 +2,14 @@
 title: "Research"
 ---
 
-### Top-down control on coral reef recovery               
-Coral reefs are one of the most diverse and threatened ecosystems in our world, facing unrelenting disturbances such as marine heat waves and increasing storm events, that contribute to shifts from a coral to algae dominated reef. Fishes play an integral role in structuring recovery after these disturbances by limiting algae that compete with corals; however, reefs are rapidly losing large fishes due to fishing pressure. Using a fish exclusion experiment in Palmyra Atoll, we found that the loss of fishes led to divergent benthic community states across space  and greater species turnover through time, demonstrating that overfishing may lead to more variable and unpredictable benthic communities during recovery (McDevitt-Irwin et al. 2023, Oecologia).  
+### Trophic interactions shaping communities and ecosystems               
+Large-bodied consumers are increasingly lost from ecosystems due to hunting and fishing pressure from
+humans. As these consumers are critical drivers of community structure and ecosystem function, its crucial
+to evaluate the cascading effects of their disappearance.
 
-Reefs are also facing dramatic declines in their shark populations, but there is very little research on how the loss of sharks may cascade through the food web to reef recovery. Using observational field surveys and a fish exclusion experiment in the Chagos Archipelago, we found that fishes limited algae cover during reef recovery but had variable and nonsignificant overall effects on coral recruitment. In addition, we found mesopredatory fishes increased with decreasing shark abundance, but there were no cascading effects to lower trophic fishes or reef recovery. Thus, in this intact food web, which is promoted by the large and remote MPA, reef recovery may be resilient to the loss of fishes and sharks (McDevitt-Irwin et al. 2024, Biological Conservation). 
+Fishes play integral roles in structuring coral reefs by limiting algae that compete with corals; however, reefs are rapidly losing large fishes due to fishing pressure. Using an experiment at Palmyra Atoll, we found that the loss of fishes on coral reefs can increase the variability and decrease the predictability of coral reef benthic communities (McDevitt-Irwin et al. 2023, Oecologia). Reefs are also facing dramatic declines in their shark populations, but there is very little research on how the loss of sharks may cascade through the food web to reef recovery. We found that the remote and protected Chagos Archipelago exhibited compensatory dynamics within the fish and benthic community that maintained key processes across a gradient of shark abundance and when fish are excluded (McDevitt-Irwin et al. 2024, Biological Conservation). 
 
+Most community ecology research captures a static snapshot of a dynamic process, largely ignoring how species interactions vary across time. In Palmyra Atoll, we demonstrated that fish promote initial coral recruitment after a disturbance, but their effects diminish after three years (McDevitt-Irwin et al. 2023, Sci Rep). In the rocky intertidal in California, we found that the timing of when herbivores arrived after a disturbance influences short-term but not long-term algae community composition, demonstrating this strong and deterministic top-down control in this ecosystem (McDevitt-Irwin et al. In Prep).    
 
 
 <p align="center">
@@ -15,25 +18,30 @@ Experiment in the Chagos Archipelago, Photo Credit: Kristina Tietjen
 </p>  
 <br>  
 
-### Temporal dynamics of trophic interactions
-Most community ecology research captures a static snapshot of a dynamic process, largely ignoring how species interactions vary across time. Large, bodied fishes play an important role in structuring coral reef recovery from disturbances, however, how the role of fishes varies through successional time is relatively unexplored. Using a fish exclusion experiment in Palmyra Atoll, we demonstrated that the positive and negative effects of fishes on coral recruitment varies over time, with fishes promoting initial coral recruitment after a disturbance, but their effects diminishing after three years (McDevitt-Irwin et al. 2023, Sci Rep).  
 
-Most previous research has included consumers as a constant state of presence-absence or varying abundance and not as transient members of the community with variable arrival timing due to factors such as habitat connectivity. Using an herbivore exclusion experiment in the rocky intertidal in California, we found that the timing of when herbivores arrived after a disturbance influences short-term but not long-term algae community composition. Suggesting the role of consumers in this system is so strong, that it swamps any variability with arrival timing after a disturbance (McDevitt-Irwin et al. In Prep).    
 
+### Causes and consequences of biodiversity change
+As we are currently facing the sixth mass extinction event, its imperative to understand the drivers of
+biodiversity over space and time and the ecosystem-wide consequences of biodiversity change across
+multiple levels of biological organization. 
+
+Most research on biodiversity change monitors one taxonomic group, so my recent work has expanded on this, studying changes in biodiversity across multiple taxonomic groups. Using regional scale data of coral reef benthic communities in the Bahamas, we found that beta diversity patterns, but not alpha diversity, are non-independent among taxonomic groups, demonstrating that changes in the composition of one taxonomic group can have cascading effects on overall composition (McDevitt-Irwin et al. 2021, Oecologia). 
+
+My current work evaluates how anthropogenic stressors impact coral reef biodiversity across multiple taxonomic groups (i.e., fishes, corals, algae, microbes) in Moorea, French Polynesia. I am evaluating how the loss of fishes and nutrient pollution influence coral reef diversity using a four-year long field experiment. In addition, I am integrating observational data using new technologies (i.e, eDNA, bioacoustics, computer vision) to determine how landscape scale biodiversity is driven by fishing pressure, nutrient pollution, and heat waves. 
 
 <p align="center">
-![](images/IMG_3537.jpeg){width=70%}   
-Field experiment in Big Sur, California.  
+![](images/IMG_1793.jpg){width=70%}  
+Fieldwork in Moorea, French Polynesia  
 </p>  
 <br>  
 
+### Ecosystem resilience to climate change
+As ecosystems worldwide are facing extraordinary climate change, it’s incredibly important to
+understand what makes an ecosystem resilient to these environmental stressors.
 
+Coral reefs are an especially at-risk ecosystem under climate change, with widespread bleaching events that can cause shifts from coral to algae dominated reefs. However, beyond reducing carbon emissions, it remains unclear how to protect coral reefs from heat stress. At Kiritimati, Kiribati, we demonstrated that sites with low local disturbance, which originally had the highest coral cover, had the greatest coral cover loss. However, individual coral colonies had greater survival at low human disturbance, demonstrating local stressors can impair coral survival under heat stress (Baum et al. 2023, Sci Adv).
 
-
-### Micro and macro biodiversity patterns  
-Around the world, ecosystems are facing rapid rates of environmental change from climate warming. As we are currently facing the sixth mass extinction event, it’s imperative to understand the drivers of biodiversity over space and time across multiple levels of biological organization. My current post-doctoral work evaluates how coral reef biodiversity - from fishes, corals, algae, invertebrates to microscopic organisms - is driven by anthropogenic stressors such as the loss of herbivorous fishes, nutrient pollution, and marine heat waves using both experimental and observational methods using new technologies (i.e, eDNA, bioacoustics, computer vision).  
-  
-Climate change alterations do not only occur at the level of organisms visible to the naked eye; human activities also cause dramatic changes in the unseen worlds of microbes. By reviewing the previous literature, I showed that local and global stressors typically increase diversity in the coral microbiome, but few studies have considered multiple stressors in a field setting (McDevitt-Irwin et al. 2017, FMARS). I then addressed this knowledge gap by monitoring individual coral colonies across a gradient of human disturbance before and during an El Niño event in Kiritimati, Kiribati. We found that both stressors can interact to increase coral microbiome diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2019, Coral Reefs).
+Climate change alterations do not only occur at the level of organisms visible to the naked eye; human activities also cause dramatic changes in the unseen worlds of microbes. I showed that local and global stressors typically increase diversity in the coral microbiome, but few studies have considered multiple stressors in a field setting (McDevitt-Irwin et al. 2017, FMARS). I then addressed this knowledge gap by monitoring individual coral colonies across a gradient of human disturbance before and during an El Niño event at Kiritimati. We found that both stressors can interact to increase coral microbiome diversity and destabilize the coral microbiome (McDevitt-Irwin et al. 2019, Coral Reefs).
     
 <p align="center">
 ![](images/img_5412.jpg){width=50%}   
