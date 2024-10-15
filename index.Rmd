@@ -7,7 +7,9 @@ links:
   - label: Twitter
     url: "https://twitter.com/jamiemcirwin"   
   - label: Email
-    url: "mailto:jmcirwin@ucsb.edu"   
+    url: "mailto:jmcirwin@ucsb.edu"
+  - label: CV
+    url: "McDevittIrwin_CV_2024.pdf"   
 site: distill::distill_website
 output:
   postcards::trestles
