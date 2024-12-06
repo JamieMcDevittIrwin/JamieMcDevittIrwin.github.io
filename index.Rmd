@@ -4,8 +4,6 @@ image: "images/DSC_0369copy.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=ShneqswAAAAJ&hl=en"
-  - label: Twitter
-    url: "https://twitter.com/jamiemcirwin"   
   - label: Email
     url: "mailto:jmcirwin@ucsb.edu"
   - label: CV
