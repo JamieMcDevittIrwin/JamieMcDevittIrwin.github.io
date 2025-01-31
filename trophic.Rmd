@@ -9,7 +9,7 @@ Fishes play integral roles in structuring coral reefs by limiting algae that com
 
 Most community ecology research captures a static snapshot of a dynamic process, largely ignoring how species interactions vary across time. In Palmyra Atoll, we demonstrated that fish promote initial coral recruitment after a disturbance, but their effects diminish after three years (McDevitt-Irwin et al. 2023, Sci Rep). In the rocky intertidal in California, we found that the timing of when herbivores arrived after a disturbance influences short-term but not long-term algae community composition, demonstrating this strong and deterministic top-down control in this ecosystem (McDevitt-Irwin et al. In Prep).   
 
-I am currently co-leading a [NSF LTER Working Group](https://lternet.edu/working-groups/caged/) exploring how the loss of consumers across marine, terrestrial and freshwater ecosystems affects community variability across space (i.e., dissimilarity in community composition).  
+I am currently co-leading a [NSF LTER Working Group](https://jamiemcdevittirwin.github.io/CAGED-website/) exploring how the loss of consumers across marine, terrestrial and freshwater ecosystems affects community variability across space (i.e., dissimilarity in community composition).  
 
 <p align="center">
 ![](images/Tiles&WhiteTip_Chagos_2019_KT_IMG_7868_2.jpg){width=70%}  
